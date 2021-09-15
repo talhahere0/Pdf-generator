@@ -1,0 +1,132 @@
+.header{
+    height:80px;
+    width: 100%;
+    background:crimson;
+
+}
+.hname{
+    text-align:center;
+    line-height:80px;
+    color:white;
+    font-family: 'open sans',sans-serif;
+    font-weight:600;
+}
+.per-detail{
+    text-align: center;
+}
+.p-det{
+    font-family:'open sans',sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.user-ed-1{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.c-u{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    width:300px;
+    height:40px;
+    padding-left: 10px;
+}
+.st,.en{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    padding-left:10px;
+    border-radius:5px;
+    width:300px;
+}
+.user-ed-2{
+    display:flex;
+    justify-content: space-evenly;
+}
+.ed-q{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:300px;
+    height:40px;
+    margin-left: 4px;
+    padding-left:10px;
+}
+.ed-d{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    
+    border-radius:5px;
+    margin-top: 20px;
+    width:720px;
+    height:40px;
+    padding-left: 10px;
+}
+
+.user-ed-3{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+.s{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 50px;
+    width:300px;
+    height:40px;
+    padding-left: 10px;
+}
+.st-3,.en-3{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    margin-top: 50px;
+    padding-left:10px;
+    border-radius:5px;
+    width:300px;
+}
+.user-ed-5{
+    display:flex;
+    justify-content: space-evenly;
+}
+.ed-q-5{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:300px;
+    height:40px;
+    margin-left: 4px;
+    padding-left:10px;
+}
+.ed-d-5{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    
+    border-radius:5px;
+    margin-top: 20px;
+    width:720px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-ed-6{
+    display:flex;
+    /* justify-content:space-around; */
+}
+.btn-ed-n{
+    margin-top:25px;
+    padding:6px;
+    width:100px;
+    background-color:crimson;
+    border: none;
+    color:white;
+    font-family: 'open Sans',sans-serif;
+    font-size:20px;
+    border-radius:6px;
+    margin-left: 100px;
+}
+.btn-ed-b{
+    margin-top:25px;
+    padding:6px;
+    width:100px;
+    background-color:crimson;
+    border: none;
+    color:white;
+    font-family: 'open Sans',sans-serif;
+    font-size:20px;
+    border-radius:6px;
+    margin-left: 531px;
+}

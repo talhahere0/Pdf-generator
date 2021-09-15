@@ -1,0 +1,52 @@
+.s-l{
+    margin-top: 25px;
+    margin-left: 170px;
+    font-family: 'open Sans',sans-serif;
+    font-weight: bold;
+    font-size:20px;
+}
+.tickmark{
+    margin-right: 10px;
+}
+.user-ext-1{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.skill1,.skill2,.skill3{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    padding-left:10px;
+    border-radius:5px;
+    width:300px;
+    height: 40px;
+}
+.user-ext-2{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.user-ext-3{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.user-ext-4{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.user-7{
+    display:flex;
+    justify-content:center;
+    margin-top:25px;
+}
+.dwn-btn{
+    border:1px solid #303F89;
+    background-color:#303F89;
+    color:white;
+    height:40px;
+    width:150px;
+    border-radius: 5px;
+}

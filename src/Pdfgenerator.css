@@ -1,0 +1,96 @@
+.header{
+    height:80px;
+    width: 100%;
+    background:crimson;
+
+}
+.hname{
+    text-align:center;
+    line-height:80px;
+    color:white;
+    font-family: 'open sans',sans-serif;
+    font-weight:600;
+}
+.per-detail{
+    text-align: center;
+}
+.p-det{
+    font-family:'open sans',sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+}
+.user-1{
+    display:flex;
+    justify-content: space-evenly;
+}
+.fname,.lname{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    width:400px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-2{
+    display:flex;
+    justify-content: space-evenly;
+}
+.em,.ph{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:400px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-3{
+    display:flex;
+    justify-content: space-evenly;
+}
+.web,.ghub{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:400px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-4{
+    display:flex;
+    justify-content: space-evenly;
+}
+.link,.twt{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:400px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-5{
+    display:flex;
+    justify-content: space-evenly;
+}
+.fb,.insta{
+    border: 1px rgba(128, 128, 128, 0.486) solid;
+    border-radius:5px;
+    margin-top: 20px;
+    width:400px;
+    height:40px;
+    padding-left: 10px;
+}
+.user-6{
+    display:flex;
+    justify-content:space-around;
+}
+.btn-n{
+    margin-top:25px;
+    padding:6px;
+    width:100px;
+    background-color:crimson;
+    border: none;
+    color:white;
+    font-family: 'open Sans',sans-serif;
+    font-size:20px;
+    border-radius:6px;
+    margin-left: 890px;
+}
